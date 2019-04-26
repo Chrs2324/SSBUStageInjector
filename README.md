@@ -1,6 +1,6 @@
 # SSBUStageInjector
 
-A WIP (Work-In-Progress) application that allows users to easily inject SSBU Stage Builder Stages into your save file!
+A WIP (Work-In-Progress) application that allows users to easily inject SSBU Stage Builder Stages into a SSBU save file!
 
 # Compile the program
 
